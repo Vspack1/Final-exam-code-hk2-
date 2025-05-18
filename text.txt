@@ -1,0 +1,8 @@
+Maso Hoten GioiTinh Luong
+P007 Tran Thanh Tuan 1 150000
+P003 Huynh Van Long 1 800000
+P006 Ho Thi Lan 0 1000000
+P005 Phan Thanh Son 1 1000000
+P004 Ly Thi Hoa 0 1000000
+P001 Nguyen Van Thanh 1 1000000
+P002 Le Thi Ha 0 1200000
